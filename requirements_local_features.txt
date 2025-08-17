@@ -1,0 +1,29 @@
+# Core PyTorch
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Transformers for T5 model
+transformers>=4.20.0
+
+# Computer Vision
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Scientific computing
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Progress bars
+tqdm>=4.60.0
+
+# Additional dependencies
+scipy>=1.7.0
+pandas>=1.3.0
+
+# Optional: For better performance
+# torch-scatter  # If using PyTorch Geometric
+# torch-sparse   # If using PyTorch Geometric
+
